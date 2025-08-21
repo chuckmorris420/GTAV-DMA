@@ -1,0 +1,1452 @@
+﻿  pch.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Dev.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Dev.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  GodMode.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GodMode.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  Teleport.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Teleport.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(11,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(12,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(12,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(13,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(13,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(13,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(17,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(17,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(18,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(18,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(18,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(19,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(19,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(20,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(20,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(21,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(21,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(22,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(22,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(23,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(23,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(24,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(24,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(24,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(25,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(25,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(25,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(26,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(26,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(26,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(28,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(28,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(28,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(29,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(29,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(29,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(30,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(30,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(30,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(31,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(31,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(31,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(37,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(37,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(38,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(38,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(38,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(39,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(39,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(39,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(40,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(40,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(40,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(41,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(41,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(41,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(42,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(42,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(42,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(43,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(43,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(43,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(66,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(66,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(66,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(67,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(67,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(67,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(68,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(68,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(68,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(69,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(69,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(69,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(70,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(70,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(70,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(71,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(71,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(72,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(72,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\Locations.h(72,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Teleport.cpp')
+  
+  WeaponInspector.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'WeaponInspector.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(169,18): warning C4244: 'initializing': conversion from 'unsigned long' to 'uint8_t', possible loss of data
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(185,18): warning C4244: 'initializing': conversion from 'unsigned long' to 'uint8_t', possible loss of data
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(201,18): warning C4244: 'initializing': conversion from 'unsigned long' to 'uint8_t', possible loss of data
+C:\Users\zenex\Desktop\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(217,18): warning C4244: 'initializing': conversion from 'unsigned long' to 'uint8_t', possible loss of data
+  RefreshHealth.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'RefreshHealth.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  MyImGui.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyImGui.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  MyMenu.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'MyMenu.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  NoWanted.cpp
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NoWanted.cpp')
+      C:\Users\zenex\Desktop\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  DMA.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2942 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GTA5_DMA.vcxproj -> C:\Users\zenex\Desktop\GTA5_DMA\x64\Release\GTA5_DMA.exe

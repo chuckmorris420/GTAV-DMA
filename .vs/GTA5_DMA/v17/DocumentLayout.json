@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\MyImGui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\MyMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\MyMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\MyImGui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\GodMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\GodMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Dev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\Dev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\WeaponInspector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\WeaponInspector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Teleport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\Teleport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Locations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\Locations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\ImGui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:ImGui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\DMA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA1C7D88-A234-4414-BEC0-4FE4EC8DC746}|GTA5_DMA\\GTA5_DMA.vcxproj|solutionrelative:GTA5_DMA\\DMA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyMenu.h",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.h",
+              "RelativeDocumentMoniker": "GTA5_DMA\\MyMenu.h",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.h",
+              "RelativeToolTip": "GTA5_DMA\\MyMenu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T01:37:24.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GodMode.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\GodMode.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\GodMode.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\GodMode.cpp",
+              "RelativeToolTip": "GTA5_DMA\\GodMode.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T01:12:20.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dev.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Dev.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\Dev.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Dev.cpp",
+              "RelativeToolTip": "GTA5_DMA\\Dev.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T01:04:51.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\MyMenu.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyMenu.cpp",
+              "RelativeToolTip": "GTA5_DMA\\MyMenu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T01:03:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyImGui.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\MyImGui.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.cpp",
+              "RelativeToolTip": "GTA5_DMA\\MyImGui.cpp",
+              "ViewState": "AgIAANsAAAAAAAAAAIAwwOAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T13:34:09.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Offsets.h",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Offsets.h",
+              "RelativeDocumentMoniker": "GTA5_DMA\\Offsets.h",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Offsets.h",
+              "RelativeToolTip": "GTA5_DMA\\Offsets.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-10T13:10:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyImGui.h",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.h",
+              "RelativeDocumentMoniker": "GTA5_DMA\\MyImGui.h",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\MyImGui.h",
+              "RelativeToolTip": "GTA5_DMA\\MyImGui.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T13:36:52.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeaponInspector.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\WeaponInspector.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\WeaponInspector.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\WeaponInspector.cpp",
+              "RelativeToolTip": "GTA5_DMA\\WeaponInspector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T01:05:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\pch.h",
+              "RelativeDocumentMoniker": "GTA5_DMA\\pch.h",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\pch.h",
+              "RelativeToolTip": "GTA5_DMA\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T13:38:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\ImGui\\imgui.cpp",
+              "RelativeDocumentMoniker": "ImGui\\imgui.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\ImGui\\imgui.cpp",
+              "RelativeToolTip": "ImGui\\imgui.cpp",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAswHcBAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T13:30:40.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Locations.h",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Locations.h",
+              "RelativeDocumentMoniker": "GTA5_DMA\\Locations.h",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Locations.h",
+              "RelativeToolTip": "GTA5_DMA\\Locations.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T13:59:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teleport.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Teleport.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\Teleport.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\Teleport.cpp",
+              "RelativeToolTip": "GTA5_DMA\\Teleport.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T13:50:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DMA.cpp",
+              "DocumentMoniker": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\DMA.cpp",
+              "RelativeDocumentMoniker": "GTA5_DMA\\DMA.cpp",
+              "ToolTip": "C:\\Users\\zenex\\Desktop\\GTA5_DMA\\GTA5_DMA\\DMA.cpp",
+              "RelativeToolTip": "GTA5_DMA\\DMA.cpp",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T13:11:53.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
