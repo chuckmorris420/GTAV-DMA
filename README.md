@@ -17,6 +17,16 @@ Credits for source: [warrior276276(CyNickal)](https://www.unknowncheats.me/forum
 
 [GTA5_Enchanced Basic DMA Tool](https://www.unknowncheats.me/forum/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)
 
+
 Credits for dumper: [kitsheaven](https://www.unknowncheats.me/forum/members/3410923.html)
 
 [GTA5 Enhanced Basic Dumper [DMA]](https://www.unknowncheats.me/forum/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)
+
+
+Differences in this versus the OG source on UC:
+- Changed Direct X example background to black
+- Added full screen toggle button
+- Changed font to SegoeUI Bold (8 and 0 looked too close)
+- Set UI to auto resize to content within them
+- Added Business (15 buttons) and Friend business (7 buttons) TP tabs
+- Added TP points for inside the casino vault to save time hacking
