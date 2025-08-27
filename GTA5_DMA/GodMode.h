@@ -1,20 +1,20 @@
 #pragma once
+#include <chrono>  // Add this include
 
 class GodMode {
 public:
-	static inline bool bRequestedGodmode = false;
-	static inline bool bPlayerGodMode = false;
-	static inline bool bVehicleGodMode = false;
+    static inline bool bEnable = false;
+    static inline DWORD BytesRead = 0;
 
-	static inline DWORD BytesRead = 0x0;
+    // Timer-related members
+    static inline std::chrono::steady_clock::time_point LastCheckTime;
+    static inline const std::chrono::seconds CheckInterval{ 30 };
 
 public:
-	static bool OnDMAFrame();
+    static bool OnDMAFrame();
+    static bool Enable();
+    static bool Disable();
 
-	static bool PlayerSet(bool GodMode);
-	static bool VehicleSet(bool GodMode);
-
-	static bool VehicleEnable();
-	static bool VehicleDisable();
-
+private:
+    static uint32_t ReadGodBits();
 };

@@ -4,7 +4,7 @@
 
 std::map<std::string, Vec3>LocationMap
 {
-	/* General locations */
+	// General locations
 	{"Military Base",{-2234, 3247, 33}},
 	{"Sandy Shores",{1700, 3250, 42}},
 	{"Casino",{920, 47, 81}},
@@ -12,7 +12,7 @@ std::map<std::string, Vec3>LocationMap
 	{"Paleto Bay",{-170.78, 6357.98, -255}},
 	{"Car Wash",{-5.11, -1487.09, 30.34}},
 
-	/* Business Locations*/
+	// Business Locations
 	{"Clubhouse",{-1150.0, -1520.0, 10.0}},
 	{"Coke",{-262.64, -2586.98, 7.0}},
 	{"Fake Cash",{-1179.18, -1387.92, 5.76}},
@@ -30,10 +30,10 @@ std::map<std::string, Vec3>LocationMap
 	{"Warehouse 2",{918.17,-1559.38,31.76}},
 	{"Doomsday",{2111.22, 1753.22, 103.99}},
 	{"Salvage",{ -1600.0, 5250.0, 0.0}}, //temp
-	{"Doc Forgery",{ -1600.0, 5250.0, 0.0}},//temp
-	{"Bail Office",{ -1600.0, 5250.0, 0.0}},//temp
+	{"Doc Forgery",{ -1600.0, 5250.0, 0.0}}, //temp
+	{"Bail Office",{ -1600.0, 5250.0, 0.0}}, //temp
 
-	/* Friend Businesses locations*/
+	// Friend Businesses Locations
 	{"Clubhouse2",{59.21, 2774.01, 58.50}},
 	{"Coke2",{394.57, 3590.14, 33.91}},
 	{"Fake Cash2",{644.40, 2777.31, 42.57}},
@@ -42,14 +42,21 @@ std::map<std::string, Vec3>LocationMap
 	{"Bunker2",{-662.87, 5930.39, 16.69}},
 	{"Nightclub2",{-1316.32, -657.81, 27.18}},
 	
+	// Cluckin' Bell Locations
+	{"Vance" ,{-1093,-807,19}},
+	{"Office" ,{-68,6255,31}},
+	{"KeyPad1" ,{-112, 6197,31}},
+	{"KeyPad2" ,{-99,6198,31}},
+	{"Garage" ,{46,6301,31}},
+	{"Drop Off" ,{142,321,113}},
 
-	/* Cayo Main Objectives */
+	// Cayo Main Objectives
 	{"Radio Tower",{5270,-5422,66}},
 	{"Upper Radio Tower",{5265,-5430,110}},
 	{"First Room",{5010,-5753,29}},
 	{"Main Exit",{4990,-5717,20}},
 	
-	/* Cayo Seconday Objectives */
+	// Cayo Seconday Objectives
 	{"Coke Field",{5333,-5268,34}},
 	{"NorthDock1",{5135,-4607,3}},
 	{"NorthDock2",{5063,-4597,3}},
@@ -62,7 +69,7 @@ std::map<std::string, Vec3>LocationMap
 	{"Hangar2",{4441,-4446,8}},
 	{"Spawn",{4502,-4548,5}},
 
-	/* Casino Vault locations */
+	/* Casino Vault Locations */
 	{"A",{2521.14,-224.20,-70.74}},
 	{"A1",{2512.46,-223.95,-70.74}},
 	{"B",{2535.11,-238.39,-70.74}},

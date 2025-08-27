@@ -291,7 +291,48 @@ bool Teleport::Render()
 		}
 	}
 
-	if (ImGui::CollapsingHeader("Cayo TPs"))
+	if (ImGui::CollapsingHeader("Cluckin' Bell"))
+		{
+		ImGui::Indent();
+		if (ImGui::Button("Vance"))
+		{
+			DesiredLocation = LocationMap["Vance"];
+			bRequestedTeleport = true;
+		}
+		ImGui::SameLine();
+		if (ImGui::Button("Office"))
+		{
+			DesiredLocation = LocationMap["Office"];
+			bRequestedTeleport = true;
+		}
+		ImGui::SameLine();
+		if (ImGui::Button("Keypad1"))
+		{
+			DesiredLocation = LocationMap["Keypad1"];
+			bRequestedTeleport = true;
+		}
+		ImGui::SameLine();
+		if (ImGui::Button("Keypad2"))
+		{
+			DesiredLocation = LocationMap["Keypad2"];
+			bRequestedTeleport = true;
+		}
+		ImGui::SameLine();
+		if (ImGui::Button("Garage"))
+		{
+			DesiredLocation = LocationMap["Garage"];
+			bRequestedTeleport = true;
+		}
+		ImGui::SameLine();
+		if (ImGui::Button("Drop Off"))
+		{
+			DesiredLocation = LocationMap["Drop Off"];
+			bRequestedTeleport = true;
+		}
+		ImGui::Unindent();
+	}
+
+	if (ImGui::CollapsingHeader("Cayo Perico"))
 	{
 		ImGui::Indent();
 

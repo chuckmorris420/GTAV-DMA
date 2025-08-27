@@ -150,8 +150,15 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='UC|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="CarControl.cpp" />
+    <ClCompile Include="CarGodMode.cpp" />
+    <ClCompile Include="CarInspector.cpp" />
     <ClCompile Include="Dev.cpp" />
     <ClCompile Include="GodMode.cpp" />
+    <ClCompile Include="HashChanger.cpp" />
+    <ClCompile Include="RunSpeed.cpp" />
+    <ClCompile Include="Seatbelt.cpp" />
+    <ClCompile Include="SwimSpeed.cpp" />
     <ClCompile Include="Teleport.cpp" />
     <ClCompile Include="WeaponInspector.cpp" />
     <ClCompile Include="DMA.cpp">
@@ -183,9 +190,16 @@
     <ClInclude Include="..\ImGui\imstb_rectpack.h" />
     <ClInclude Include="..\ImGui\imstb_textedit.h" />
     <ClInclude Include="..\ImGui\imstb_truetype.h" />
+    <ClInclude Include="CarControl.h" />
+    <ClInclude Include="CarGodMode.h" />
+    <ClInclude Include="CarInspector.h" />
     <ClInclude Include="Dev.h" />
     <ClInclude Include="GodMode.h" />
+    <ClInclude Include="HashChanger.h" />
     <ClInclude Include="Locations.h" />
+    <ClInclude Include="RunSPeed.h" />
+    <ClInclude Include="Seatbelt.h" />
+    <ClInclude Include="SwimSPeed.h" />
     <ClInclude Include="Teleport.h" />
     <ClInclude Include="Vector.h" />
     <ClInclude Include="WeaponInspector.h" />

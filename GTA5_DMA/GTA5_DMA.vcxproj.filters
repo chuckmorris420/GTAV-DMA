@@ -16,9 +16,6 @@
     <Filter Include="Features">
       <UniqueIdentifier>{3f209a19-455d-40af-970b-3f932e367bb7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Features\No Wanted">
-      <UniqueIdentifier>{cfd53f37-781f-4480-b1c2-150986f7cca9}</UniqueIdentifier>
-    </Filter>
     <Filter Include="DMA">
       <UniqueIdentifier>{631610fc-4a6d-4b72-aac2-678a589a9536}</UniqueIdentifier>
     </Filter>
@@ -34,14 +31,41 @@
     <Filter Include="Features\Dev">
       <UniqueIdentifier>{3625a537-14b5-4a64-b488-8a9f352451d7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Features\RefreshHealth">
-      <UniqueIdentifier>{69f76be9-3936-4609-9955-0245eaeb9380}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Features\GodMode">
-      <UniqueIdentifier>{0d7ef14e-a213-469b-9bc8-50d02939b788}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Features\Weapon Inspector">
       <UniqueIdentifier>{4f062edc-0c58-4e80-aa7a-e99ef2874108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Car Features">
+      <UniqueIdentifier>{4ac9ee94-1a45-43f3-aab3-fad40b31ffba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Car Features\Car Inspector">
+      <UniqueIdentifier>{34d31cf0-ce51-4125-9b1d-eecb9bd2cf7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Car Features\Car Hash Changer">
+      <UniqueIdentifier>{73cbb548-90dd-4e03-810c-9d32bb758cbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features">
+      <UniqueIdentifier>{2bcf074e-40c0-4ab0-bb1d-2f8cdc872c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features\Player Movement">
+      <UniqueIdentifier>{e33610c2-0b54-483e-b0f0-1afe3760e204}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features\God Mode">
+      <UniqueIdentifier>{0d7ef14e-a213-469b-9bc8-50d02939b788}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features\No Wanted">
+      <UniqueIdentifier>{cfd53f37-781f-4480-b1c2-150986f7cca9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features\Refresh Health">
+      <UniqueIdentifier>{69f76be9-3936-4609-9955-0245eaeb9380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Player Features\Seatbelt">
+      <UniqueIdentifier>{12a7b8ff-dae4-4482-9cf0-2bfd2bcc000c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Car Features\Car God Mode">
+      <UniqueIdentifier>{fdc5f660-a7f0-47bc-a135-9ff63d6e4a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Car Features\Car Control">
+      <UniqueIdentifier>{ea416276-2958-48fb-b3fa-58260f4fa847}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -55,10 +79,10 @@
       <Filter>DMA</Filter>
     </ClCompile>
     <ClCompile Include="RefreshHealth.cpp">
-      <Filter>Features\RefreshHealth</Filter>
+      <Filter>Features\Player Features\Refresh Health</Filter>
     </ClCompile>
     <ClCompile Include="NoWanted.cpp">
-      <Filter>Features\No Wanted</Filter>
+      <Filter>Features\Player Features\No Wanted</Filter>
     </ClCompile>
     <ClCompile Include="WeaponInspector.cpp">
       <Filter>Features\Weapon Inspector</Filter>
@@ -97,7 +121,28 @@
       <Filter>Features\Dev</Filter>
     </ClCompile>
     <ClCompile Include="GodMode.cpp">
-      <Filter>Features\GodMode</Filter>
+      <Filter>Features\Player Features\God Mode</Filter>
+    </ClCompile>
+    <ClCompile Include="RunSpeed.cpp">
+      <Filter>Features\Player Features\Player Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="SwimSpeed.cpp">
+      <Filter>Features\Player Features\Player Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Seatbelt.cpp">
+      <Filter>Features\Player Features\Seatbelt</Filter>
+    </ClCompile>
+    <ClCompile Include="CarInspector.cpp">
+      <Filter>Features\Car Features\Car Inspector</Filter>
+    </ClCompile>
+    <ClCompile Include="HashChanger.cpp">
+      <Filter>Features\Car Features\Car Hash Changer</Filter>
+    </ClCompile>
+    <ClCompile Include="CarGodMode.cpp">
+      <Filter>Features\Car Features\Car God Mode</Filter>
+    </ClCompile>
+    <ClCompile Include="CarControl.cpp">
+      <Filter>Features\Car Features\Car Control</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -111,10 +156,10 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="RefreshHealth.h">
-      <Filter>Features\RefreshHealth</Filter>
+      <Filter>Features\Player Features\Refresh Health</Filter>
     </ClInclude>
     <ClInclude Include="NoWanted.h">
-      <Filter>Features\No Wanted</Filter>
+      <Filter>Features\Player Features\No Wanted</Filter>
     </ClInclude>
     <ClInclude Include="WeaponInspector.h">
       <Filter>Features\Weapon Inspector</Filter>
@@ -168,7 +213,28 @@
       <Filter>Features\Dev</Filter>
     </ClInclude>
     <ClInclude Include="GodMode.h">
-      <Filter>Features\GodMode</Filter>
+      <Filter>Features\Player Features\God Mode</Filter>
+    </ClInclude>
+    <ClInclude Include="RunSPeed.h">
+      <Filter>Features\Player Features\Player Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="SwimSPeed.h">
+      <Filter>Features\Player Features\Player Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Seatbelt.h">
+      <Filter>Features\Player Features\Seatbelt</Filter>
+    </ClInclude>
+    <ClInclude Include="CarInspector.h">
+      <Filter>Features\Car Features\Car Inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="HashChanger.h">
+      <Filter>Features\Car Features\Car Hash Changer</Filter>
+    </ClInclude>
+    <ClInclude Include="CarGodMode.h">
+      <Filter>Features\Car Features\Car God Mode</Filter>
+    </ClInclude>
+    <ClInclude Include="CarControl.h">
+      <Filter>Features\Car Features\Car Control</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -17,7 +17,9 @@ public:
 	int8_t InvisibilityFlag; //0x002C
 	char pad_002D[3]; //0x002D
 	class CNavigation* pCNavigation; //0x0030
-	char pad_0038[336]; //0x0038
+	char pad_0038[56]; //0x0038
+	class CVehicleWeapon* pCVehicleWeapon; //0x70
+	char pad_0078[272]; //0x0078
 	uint32_t GodFlags; //0x0188
 	char pad_018C[244]; //0x018C
 	float CurrentHealth; //0x0280
@@ -152,6 +154,7 @@ public:
 }; //Size: 0x0890
 static_assert(sizeof(N000007DA) == 0x890);
 
+
 class CVehicle
 {
 public:
@@ -159,13 +162,16 @@ public:
 	class CModelInfo* pCModelInfo; //0x0020
 	char pad_0028[8]; //0x0028
 	class CNavigation* pCNavigation; //0x0030
-	char pad_0038[336]; //0x0038
+	char pad_0038[336]; //0x0038 (Restored original padding after removing BoostSpeed)
 	uint32_t GodBits; //0x0188
 	char pad_018C[244]; //0x018C
 	float Health; //0x0280
 	char pad_0284[1756]; //0x0284
 	class CHandlingData* pCHandlingData; //0x0960
-	char pad_0968[800]; //0x0968
+	char pad_0968[184]; //0x0968
+	float Dirt; //0x0A20 (oVDirt = 0xA20)
+	char pad_0A24[612]; //0x0A24
+	// oVGravity = 0xC8C still exceeds class size (0xC88)
 }; //Size: 0x0C88
 static_assert(sizeof(CVehicle) == 0xC88);
 
@@ -174,11 +180,36 @@ class CHandlingData
 public:
 	char pad_0000[12]; //0x0000
 	float Mass; //0x000C
-	char pad_0010[60]; //0x0010
+	char pad_0010[40]; //0x0010
+	float CamDist; //0x0038
+	char pad_003C[16]; //0x003C
 	float Acceleration; //0x004C
-	char pad_0050[744]; //0x0050
+	char pad_0050[4]; //0x0050
+	float DriveInertia; //0x0054
+	float Upshiftratio; //0x0058
+	float downshiftratio; //0x005C
+	float InitialDriveForce; //0x0060
+	char pad_0064[8]; //0x0064
+	float BrakeForce; //0x006C
+	char pad_0070[12]; //0x0070
+	float HandbrakeForce; //0x007C
+	float MaxSteeringAngle; //0x0080
+	char pad_0084[4]; //0x0084
+	float TractionCurveMax; //0x0088
+	char pad_008C[4]; //0x008C
+	float TractionCurveMin; //0x0090
+	char pad_0094[92]; //0x0094
+	float CollisionMult; //0x00F0
+	float WeaponMult; //0x00F4
+	float DeformationMult; //0x00F8
+	float EngineMult; //0x00FC
+	char pad_0100[32]; //0x0100 (split original padding)
+	float BoostSpeed; //0x0120 (oVBoostSpeed)
+	char pad_0124[532]; //0x0124 (remaining padding)
 	float Thrust; //0x0338
-	char pad_033C[1356]; //0x033C
+	char pad_033C[4]; //0x033C
+	float HeliThrustMulti; //0x0340
+	char pad_0344[1348]; //0x0344
 }; //Size: 0x0888
 static_assert(sizeof(CHandlingData) == 0x888);
 
