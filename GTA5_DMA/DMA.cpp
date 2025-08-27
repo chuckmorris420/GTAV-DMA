@@ -68,6 +68,13 @@ bool DMA::DMAThreadEntry()
 		WeaponInspector::OnDMAFrame();
 		Teleport::OnDMAFrame();
 		GodMode::OnDMAFrame();
+		CarGodMode::OnDMAFrame();
+		SwimSpeed::OnDMAFrame();
+		Seatbelt::OnDMAFrame();
+		RunSpeed::OnDMAFrame();
+		HashChanger::OnDMAFrame();
+		CarControl::OnDMAFrame();
+		CarInspector::OnDMAFrame();
 	}
 
 	DMA::Close();
@@ -115,6 +122,94 @@ uintptr_t DMA::GetGlobalAddress(DWORD Index)
 	uintptr_t ElementAddress = ChunkAddress + (ElementIndex * 0x8);
 
 	return ElementAddress;
+}
+
+DWORD DMA::GetGlobalInt(DWORD Index)
+{
+	DWORD OutValue = 0x0;
+	DWORD BytesRead = 0x0;
+
+	uintptr_t GlobalAddress = DMA::GetGlobalAddress(Index);
+
+	if (!GlobalAddress)
+		return 0;
+
+	VMMDLL_MemReadEx(vmh, PID, GlobalAddress, (BYTE*)&OutValue, sizeof(DWORD), &BytesRead, VMMDLL_FLAG_NOCACHE);
+
+	if (BytesRead != sizeof(DWORD))
+	{
+		std::println("Incomplete GlobalAddress read.");
+		return 0;
+	}
+
+	return OutValue;
+}
+
+float DMA::GetGlobalFloat(DWORD Index)
+{
+	float OutValue = 0.0f;
+
+	DWORD BytesRead = 0x0;
+
+	uintptr_t FloatAddress = DMA::GetGlobalAddress(Index);
+
+	if (!FloatAddress)
+		return 0;
+
+	VMMDLL_MemReadEx(vmh, PID, FloatAddress, (BYTE*)&OutValue, sizeof(float), &BytesRead, VMMDLL_FLAG_NOCACHE);
+
+	if (BytesRead != sizeof(float))
+		return 0.0f;
+
+	return OutValue;
+}
+
+bool DMA::SetGlobalByte(DWORD Index, BYTE NewValue)
+{
+	uintptr_t WriteAddress = DMA::GetGlobalAddress(Index);
+
+	if (!WriteAddress)
+		return 0;
+
+	VMMDLL_MemWrite(vmh, PID, WriteAddress, (BYTE*)&NewValue, sizeof(BYTE));
+
+	return 1;
+}
+
+bool DMA::SetGlobalInt(DWORD Index, DWORD NewValue)
+{
+	uintptr_t WriteAddress = DMA::GetGlobalAddress(Index);
+
+	if (!WriteAddress)
+		return 0;
+
+	VMMDLL_MemWrite(vmh, PID, WriteAddress, (BYTE*)&NewValue, sizeof(DWORD));
+
+	return 1;
+}
+
+bool DMA::SetGlobalLongInt(DWORD Index, uintptr_t NewValue)
+{
+	uintptr_t WriteAddress = DMA::GetGlobalAddress(Index);
+
+	if (!WriteAddress)
+		return 0;
+
+	VMMDLL_MemWrite(vmh, PID, WriteAddress, (BYTE*)&NewValue, sizeof(uintptr_t));
+
+	return 1;
+}
+
+bool DMA::SetGlobalFloat(DWORD Index, float NewValue)
+{
+	uintptr_t FloatAddress = DMA::GetGlobalAddress(Index);
+
+	if (!FloatAddress)
+		return 0;
+
+	VMMDLL_MemWrite(vmh, PID, FloatAddress, (BYTE*)&NewValue, sizeof(float));
+
+	return 1;
 }
 
 bool DMA::UpdateEssentials()

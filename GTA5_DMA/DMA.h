@@ -26,7 +26,12 @@ public: /* DMA Interface function */
 
 public: /* Globals */
 	static uintptr_t GetGlobalAddress(DWORD Index);
-
+	static DWORD GetGlobalInt(DWORD Index);
+	static float GetGlobalFloat(DWORD Index);
+	static bool SetGlobalByte(DWORD Index, BYTE NewValue);
+	static bool SetGlobalInt(DWORD Index, DWORD NewValue);
+	static bool SetGlobalLongInt(DWORD Index, uintptr_t NewValue);
+	static bool SetGlobalFloat(DWORD Index, float NewValue);
 	template <typename T>
 	static bool GetGlobalValue(DWORD Index, T& Out)
 	{

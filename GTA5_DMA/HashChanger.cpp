@@ -2,7 +2,7 @@
 #include "HashChanger.h"
 #include "DMA.h"
 
-void LSCForcer::OnDMAFrame()
+void HashChanger::OnDMAFrame()
 {
     if (!DMA::LocalPlayerAddress || !DMA::VehicleAddress)
         return;

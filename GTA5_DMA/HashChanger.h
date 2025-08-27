@@ -1,6 +1,6 @@
 #pragma once
 
-class LSCForcer
+class HashChanger
 {
 public:
     static inline bool bEnable = false;

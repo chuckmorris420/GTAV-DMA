@@ -242,8 +242,13 @@ bool MyImGui::OnFrame()
 
 	Dev::Render();
 
-	if (Teleport::bEnable)
+	if (CarInspector::bEnable)
+		CarInspector::Render();
 
+	if (WeaponInspector::bEnable)
+		WeaponInspector::Render();	
+
+	if (Teleport::bEnable)
 		Teleport::Render();
 
 	// ImGui::ShowDemoWindow();
